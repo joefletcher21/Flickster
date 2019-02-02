@@ -21,9 +21,7 @@ Mobile Android application to view information about new movies by allowing user
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://media.giphy.com/media/1qeFQfyr9IqlHhQoG4/giphy.gif" width=250><br>
 
 ### Notes
 
